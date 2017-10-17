@@ -18,6 +18,11 @@ mongod
 ```
 npm start
 ```
+
+rename `.env.example` to `.env`
+et ajouter `FACEBOOK_ID` et `FACEBOOK_SECRET`
+
+
 Navigate to `http://localhost:3000`
 
 
